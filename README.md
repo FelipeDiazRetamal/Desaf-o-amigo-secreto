@@ -1,4 +1,4 @@
-# Desaf-o-amigo-secreto
+# Desafío-amigo-secreto
 Desafío de programación por Allura 
 
 ## Descripción:
