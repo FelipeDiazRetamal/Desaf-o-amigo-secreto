@@ -5,7 +5,7 @@ Desafío de programación por Allura
 Este programa ejecuta un juego en el navegador que te permite sortear un amigo secreto de una lista que proporciones.
 
 ## Instalación:
-1. Clonar repositorio "git clone https://github.com/FelipeDiazRetamal/Desaf-o-amigo-secreto.git"
+1. Clonar repositorio "git clone https://github.com/FelipeDiazRetamal/Desafio-amigo-secreto.git"
 
 ## Instrucciones de uso:
 1. Ejecutar el archivo index.html
